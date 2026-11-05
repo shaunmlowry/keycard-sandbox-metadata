@@ -12,5 +12,5 @@
     "http://localhost:3000/callback"
   ],
   "scope": "openid email",
-  "client_id": "https://cdn.jsdelivr.net/gh/shaunmlowry/keycard-sandbox-metadata@main/client-metadata.json"
+  "client_id": "https://cdn.jsdelivr.net/gh/shaunmlowry/keycard-sandbox-metadata@v2/client-metadata.json"
 }
